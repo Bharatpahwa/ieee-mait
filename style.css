@@ -8,11 +8,20 @@ body {
 }
 
 .discover{
-width: 65vw;
+width: 60vw;
 display: flex;
 justify-content: center;
 margin: auto;
 }
+
+
+.team{
+  width: 95vw;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: 20px 0px 0px 0px ;
+  }
 
 .logo{
   display: flex;
@@ -27,17 +36,15 @@ margin: auto;
   justify-content: center;
   margin: auto;
   padding: 0px;
-  margin-left: 16px;
-  width: 94vw;
-  height:18vh;
+  width: 50vw;
+  height:5vh;
 }
 
 .surprise{
   display: flex;
   justify-content: center;
   margin: auto;
-  padding: 20px 0px 0px 0px ;
-  margin-left: 12px;
-  width: 96vw;
-  height: 20vh;
+  padding: 40px;
+  width: 70vw;
+  height: 5vh;
 }
