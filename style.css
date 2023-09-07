@@ -1,0 +1,43 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+body {
+  background-color: #0f0027;
+}
+
+.discover{
+width: 65vw;
+display: flex;
+justify-content: center;
+margin: auto;
+}
+
+.logo{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: 30px;
+  width: 30vw;
+}
+
+.join{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: 0px;
+  margin-left: 16px;
+  width: 94vw;
+  height:18vh;
+}
+
+.surprise{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: 20px 0px 0px 0px ;
+  margin-left: 12px;
+  width: 96vw;
+  height: 20vh;
+}
